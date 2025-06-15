@@ -1,0 +1,14 @@
+div {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+}
+
+.header {
+    background: white;
+}
+
+span{
+    color: red;
+    font-weight: 300;
+}
